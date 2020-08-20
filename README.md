@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome, and thank you for coming to my GitHub Page.
+- 🌱 I’m currently becoming proficient in**Machine learning & Data Science**
 <!--
 **renzoo123t/renzoo123t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
